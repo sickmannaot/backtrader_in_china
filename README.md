@@ -1,2 +1,8 @@
-# backtrader_in_china
-apply backtrader in china A share markets
+# Python backtrader
+Apply backtrader in China A-share markets.
+
+在学习的同时分享经验！
+
+
+
+
